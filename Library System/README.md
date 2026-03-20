@@ -66,14 +66,13 @@ library-system/
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-git clone https://github.com/your-username/library-system.git
+1. Clone the repository.
 
 2. Navigate to project folder:
-cd library-system
+cd library System
 
 3. Run the Python file:
-python main.py
+   Library_System.py
 
 ---
 
